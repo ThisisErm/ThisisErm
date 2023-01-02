@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erm
 - 👀 I’m interested in building, learning, and exploring everything tech. Specifically, I love everything to do with Linux, computer networking, and web development.
-- 🌱 I’m currently learning everything Javascript, Network security, and Docker containers.  
+- 🌱 I’m currently learning everything Javascript.  
 - 💞️ I’m looking to collaborate on open source projects that facilitate remote data access.
 - 📫 You can reach me at: erm@duck.com
 
