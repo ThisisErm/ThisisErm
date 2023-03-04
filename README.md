@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Erm
+- 👋🏿 Hi, I’m Erm
 - 👀 I’m interested in building, learning, and exploring everything tech. Specifically, I love everything to do with Linux, computer networking, and web development.
 - 🌱 I’m currently learning React, Python, and relational data modeling.  
 - 💞️ I’m looking to collaborate on open source projects that facilitate remote data access.
