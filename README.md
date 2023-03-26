@@ -11,7 +11,7 @@
 
 - 💻 All of my projects are available at [thisiserm.com](thisiserm.com)
 
-- 📝 I write articles here and there on [my blog](thisiserm.wordpress.com)
+- 📝 I write articles here and there on [my blog](https://thisiserm.wordpress.com)
 
 - 💬 Ask me about **self-hosting and open-source applications**
 
