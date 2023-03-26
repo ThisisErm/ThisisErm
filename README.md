@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, My name is Erm Mercedes</h1>
+<h1 align="center">Hi 👋🏿, My name is Erm Mercedes</h1>
 <h3 align="center">A NYC based full-stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisiserm&label=Profile%20views&color=0e75b6&style=flat" alt="thisiserm" /> </p>
 
-- 🔭 I’m currently working on [a personal dashboard](https://thisiserm.github.io/Dashboard/)
+- 🔭 I’m currently working on [this personal dashboard](https://thisiserm.github.io/Dashboard/)
 
-- 🌱 I’m currently learning **Robotic Process Automation**
+- 👨🏾‍🎓 I’m currently learning **Robotic Process Automation**
 
 - 👯 I’m looking to collaborate on my [Kandidate app](https://github.com/ThisisErm/Kandidate)
 
-- 👨‍💻 All of my projects are available at [thisiserm.com](thisiserm.com)
+- 💻 All of my projects are available at [thisiserm.com](thisiserm.com)
 
 - 📝 I write articles here and there on [https://thisiserm.wordpress.com/](https://thisiserm.wordpress.com/)
 
@@ -17,9 +17,7 @@
 
 - You can reach me at **thisiserm@outlook.com**
 
-- 📄 Know about my experience [https://thisiserm.com/assets/Erm%20Mercedes%20Resume.pdf](https://thisiserm.com/assets/Erm%20Mercedes%20Resume.pdf)
-
-- ⚡ some fun facts **I'm fluent in Spanish,I have competed in the cage at a UFC gym competition**
+- ⚡ some fun facts **I'm fluent in Spanish. I have competed in the octagon at a UFC gym competition**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
