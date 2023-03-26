@@ -5,19 +5,19 @@
 
 - 🔭 I’m currently working on [this personal dashboard](https://thisiserm.github.io/Dashboard/)
 
-- 👨🏾‍🎓 I’m currently learning **Robotic Process Automation**
+- 👨🏾‍🎓 I’m learning **Robotic Process Automation**
 
-- 👯 I’m looking to collaborate on my [Kandidate app](https://github.com/ThisisErm/Kandidate)
+- 🤝 I’m looking to collaborate on my [Kandidate app](https://github.com/ThisisErm/Kandidate)
 
 - 💻 All of my projects are available at [thisiserm.com](thisiserm.com)
 
 - 📝 I write articles here and there on [https://thisiserm.wordpress.com/](https://thisiserm.wordpress.com/)
 
-- 💬 Ask me about **self-hosting and open-source software**
+- 💬 Ask me about **self-hosting and open-source applications**
 
 - You can reach me at **thisiserm@outlook.com**
 
-- ⚡ some fun facts **I'm fluent in Spanish. I have competed in the octagon at a UFC gym competition**
+- ⚡ some fun facts **I'm fluent in Spanish. I have competed in the octagon at a UFC competition**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
