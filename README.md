@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [this personal dashboard](https://thisiserm.github.io/Dashboard/)
 
-- 👨🏾‍🎓 I’m learning **Robotic Process Automation**
+- 👨🏾‍🎓 I’m learning [**Robotic Process Automation**](https://www.uipath.com/rpa/robotic-process-automation)
 
 - 🤝 I’m looking to collaborate on my [Kandidate app](https://github.com/ThisisErm/Kandidate)
 
