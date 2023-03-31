@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking to collaborate on my [Kandidate app](https://github.com/ThisisErm/Kandidate)
 
-- 💻 All of my projects are available at [thisiserm.com](thisiserm.com)
+- 💻 All of my projects are available at [thisiserm.com](https://thisiserm.com)
 
 - 📝 I write articles here and there on [my blog](https://thisiserm.wordpress.com)
 
