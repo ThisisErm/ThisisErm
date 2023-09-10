@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [this AI chatbot](https://github.com/ThisisErm/Chatbot/)
 
-- 👨🏾‍🎓 I’m learning [**Machine Learning & AI**]
+- 👨🏾‍🎓 I’m learning **Machine Learning & AI**
 
-- 🤝 I’m looking to collaborate on [self-hosted and open source projects]
+- 🤝 I’m looking to collaborate on [self-hosted and open source projects](https://www.reddit.com/r/selfhosted/)
 
 - 💻 All of my projects are available at [thisiserm.com](https://thisiserm.com)
 
@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiserm&show_icons=true&locale=en&layout=compact" alt="thisiserm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisiserm&show_icons=true&locale=en" alt="thisiserm" />
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisiserm&show_icons=true&locale=en" alt="thisiserm" /> -->
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisiserm&" alt="thisiserm" /></p>
