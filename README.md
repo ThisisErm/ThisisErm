@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisiserm&label=Profile%20views&color=0e75b6&style=flat" alt="thisiserm" /> </p>
 
-- 🔭 I’m currently working on [this personal dashboard](https://thisiserm.github.io/Dashboard/)
+- 🔭 I’m currently working on [this AI chatbot](https://github.com/ThisisErm/Chatbot/)
 
-- 👨🏾‍🎓 I’m learning [**Robotic Process Automation**](https://www.uipath.com/rpa/robotic-process-automation)
+- 👨🏾‍🎓 I’m learning [**Machine Learning & AI**]
 
-- 🤝 I’m looking to collaborate on my [Kandidate app](https://github.com/ThisisErm/Kandidate)
+- 🤝 I’m looking to collaborate on [self-hosted and open source projects]
 
 - 💻 All of my projects are available at [thisiserm.com](https://thisiserm.com)
 
-- 📝 I write articles here and there on [my blog](https://thisiserm.wordpress.com)
+<!-- - 📝 Sometimes I write articles here and there on [my blog](https://thisiserm.wordpress.com) -->
 
 - 💬 Ask me about **self-hosting and open-source applications**
 
@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiserm&show_icons=true&locale=en&layout=compact" alt="thisiserm" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisiserm&show_icons=true&locale=en" alt="thisiserm" /></p>
- -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisiserm&show_icons=true&locale=en" alt="thisiserm" />
+ 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisiserm&" alt="thisiserm" /></p>
