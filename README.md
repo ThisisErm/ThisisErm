@@ -17,7 +17,7 @@
 
 - You can reach me at **thisiserm@outlook.com**
 
-- ⚡ some fun facts: **I'm fluent in Spanish. I have competed in the octagon at a UFC competition**
+- ⚡ **Some fun facts:** **I'm fluent in Spanish. I have competed in the octagon at a UFC competition**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
