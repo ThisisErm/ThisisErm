@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [this AI chatbot](https://github.com/ThisisErm/Chatbot/)
 
-- 👨🏾‍🎓 I’m learning **Machine Learning & AI**
+- 👨🏾‍🎓 I’m learning **[Cloud Engineering via Google Cloud](https://www.cloudskillsboost.google/profile/badges)**
 
 - 🤝 I’m looking to collaborate on [self-hosted and open source projects](https://www.reddit.com/r/selfhosted/)
 
