@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Malai's website](https://malai.co/)
 
-- 👨🏾‍🎓 I’m learning **[Cloud Engineering via Google Cloud](https://www.cloudskillsboost.google/profile/badges)**
+- 👨🏾‍🎓 I’m learning **[Cloud Engineering via Google Cloud]([https://www.cloudskillsboost.google/profile/badges](https://www.cloudskillsboost.google/public_profiles/811f3d7a-e5c0-4c40-b758-8e6af7d15dec)**
 
 - 🤝 I’m looking to collaborate on [self-hosted and open source projects](https://www.reddit.com/r/selfhosted/)
 
