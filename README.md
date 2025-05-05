@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏿, My name is Erm Mercedes</h1>
-<h3 align="center">A NYC based full-stack web developer</h3>
+<h3 align="center">I'm a NYC based full-stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisiserm&label=Profile%20views&color=0e75b6&style=flat" alt="thisiserm" /> </p>
 
